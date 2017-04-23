@@ -1,0 +1,1 @@
+<button class="btn btn-warning waves-effect waves-light btn-sm" id="warning-alert-user"><i class="fa fa-trash-o"></i></button>
